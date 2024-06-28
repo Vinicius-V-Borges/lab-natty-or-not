@@ -1,17 +1,17 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Gestão Financeira de Negócios
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de um E-Book através de IA voltado à gestão financeira de negócios
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+Ferramenta Word para edição do texto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitado à IA Generativa que desenvolvesse o material proposto seguindo algumas linhas de conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://drive.google.com/file/d/1gKxbDXX0QH2UPwHhUagYRX99tVMnEQKN/view?usp=sharing)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
